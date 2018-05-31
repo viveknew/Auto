@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>CAR WORLD WELCOMES YOU !!</h2>
+<h2>AUTO WORD WELCOMES YOU - HAVE A GOOD DAY</h2>
 </body>
 </html>
